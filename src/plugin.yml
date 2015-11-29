@@ -1,0 +1,8 @@
+name: JavaUtils
+main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
+version: 1.0
+description: The Remastered JavaUtils Plugin for JavaFreedom
+softdepend: [BukkitTelnet, WorldEdit, Essentials, DisguiseCraft, BarAPI, CoreProtect]
+authors: [Madgeek1450, DarthSalamon, Java716]
+
+# plugin.yml is no longer used to define commands.
